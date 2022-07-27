@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="6e[]D9MW44^H/410goP}" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="Jr3rHDO:2SrG$2QhRi3e"><field name="i">IconNames.Heart</field><next><block type="device_show_number" id="+en45Z,o1(adf?%gF`[S"><value name="number"><block type="device_temperature" id="TPUC:t?eQhGy}R#q~=(T"></block></value><next><block type="device_show_leds" id="`hyk_j)?]UIgEH:pdn%N"><field name="LEDS">`
+        . . . . # 
+        # . . # . 
+        # . # . . 
+        # # . . . 
+        # . . . .
+        `</field></block></next></block></next></block></statement></block></xml>
